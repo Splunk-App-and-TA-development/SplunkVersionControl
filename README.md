@@ -289,6 +289,8 @@ To do this you will need to install Version Control For SplunkCloud on your Splu
 [SplunkVersionControlCloud github](https://github.com/gjanders/SplunkVersionControlCloud)
 
 ## Release Notes
+### 1.2.6
+
 ### 1.2.5
 Updates to:
 `splunkversioncontrol_backup_class.py`
